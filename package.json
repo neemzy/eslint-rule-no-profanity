@@ -1,0 +1,13 @@
+{
+  "name": "eslint-rule-no-profanity",
+  "description": "ESLint rule example and tutorial",
+  "author": "neemzy <tom.panier@free.fr>",
+  "private": true,
+  "scripts": {
+    "start": "eslint noProfanity.js",
+    "test": "node noProfanity.test.js"
+  },
+  "dependencies": {
+    "eslint": "^9.4.0"
+  }
+}
